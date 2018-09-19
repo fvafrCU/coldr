@@ -1,4 +1,1 @@
-# coldr
-is not maintained anymore. 
-Try [cleanr](https://github.com/fvafrcu/cleanr.git) instead.
-
+This project has moved to [https://gitlab.com/fvafrCU/coldr](https://gitlab.com/fvafrCU/coldr).
